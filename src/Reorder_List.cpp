@@ -23,10 +23,35 @@ struct ListNode {
 class Solution {
 public:
     void reorderList(ListNode *head) {
-      if ( (NULL == head) || (NULL == head->next) )
+      if ( (NULL == head) || (NULL == head->next) || (NULL == head->next->next) )
 		{
 			return;
 		}
+		
+		reorderList_1(ListNode *head);			//run time 236ms
+		//reorderList_2(ListNode *head);		//run time 280ms
+    }
+
+	void reorderList_1(ListNode *head)
+	{
+		ListNode *pMidNode = FindMidNode(head);
+		pMidNode = ReverseList(pMidNode);
+
+		ListNode *pPos = head, *pTemp = NULL;
+
+		do 
+		{
+			pTemp = pPos->next;
+			pPos->next = pMidNode;
+			pMidNode = pMidNode->next;
+			pPos->next->next = pTemp;
+			pPos = pTemp;
+
+		} while (NULL != pMidNode);
+	}
+
+	void reorderList_2(ListNode *head)
+	{
 		std::vector<ListNode *> vecNodePointer;
 		ListNode *pPos = head;
 		while (NULL != pPos)
@@ -48,5 +73,34 @@ public:
 			--vecRIndex;
 		}
 		vecNodePointer[vecRIndex]->next = NULL;
-    }
+	}
+
+	ListNode *FindMidNode(ListNode *pHead)
+	{
+		ListNode *p1 = pHead, *p2 = pHead;
+		while ( (NULL != p2) && (NULL != p2->next))
+		{
+			p1 = p1->next;
+			p2 = p2->next->next;
+		}
+
+		p2 = p1->next;
+		p1->next = NULL;
+
+		return p2;
+	}
+
+	ListNode *ReverseList(ListNode *pHead)
+	{
+		ListNode *pReverseHead = NULL, *pTemp = NULL;
+		while (NULL != pHead)
+		{
+			pTemp = pReverseHead;
+			pReverseHead = pHead;
+			pHead = pHead->next;
+			pReverseHead->next = pTemp;
+		}
+
+		return pReverseHead;
+	}
 };
