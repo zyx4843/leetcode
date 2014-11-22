@@ -3,15 +3,17 @@ leetcode
 
 My C++　solution about https://oj.leetcode.com question 
 
-| Title | Solution | Difficulty |
-| ----- | -------- | ---------- |
-|[Min Stack](https://oj.leetcode.com/problems/min-stack/)| [C++](./src/MinStack.cpp)|Easy|
-|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./src/Find_Minimum_in_Rotated_Sorted_Array_II.cpp)|Hard|
-|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./src/Find_Minimum_in_Rotated_Sorted_Array.cpp)|Medium|
-|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./src/Maximum_Product_Subarray.cpp)|Medium|
-|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [C++](./src/Reverse_Words_in_a_String.cpp)|Medium|
-|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./src/Evaluate_Reverse_Polish_Notation.cpp)|Medium|
-|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [C++](./src/Max_Points_on_a_Line.cpp)|Hard|
-|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./src/Sort_List.cpp)|Medium|
-|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [C++](./src/Insertion_Sort_List.cpp)|Medium|
-|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./src/LRU_Cache.cpp)|Hard|
+| Title | Solution | Difficulty | Run Time |
+| ----- | -------- | ---------- | -------- |
+|[Min Stack](https://oj.leetcode.com/problems/min-stack/)| [cpp](./src/MinStack.cpp)|Easy|240ms|
+|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [cpp](./src/Find_Minimum_in_Rotated_Sorted_Array_II.cpp)|Hard|28ms|
+|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [cpp](./src/Find_Minimum_in_Rotated_Sorted_Array.cpp)|Medium|16ms|
+|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [cpp](./src/Maximum_Product_Subarray.cpp)|Medium|16ms|
+|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [cpp](./src/Reverse_Words_in_a_String.cpp)|Medium|12ms|
+|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [cpp](./src/Evaluate_Reverse_Polish_Notation.cpp)|Medium|52ms|
+|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [cpp](./src/Max_Points_on_a_Line.cpp)|Hard|56ms|
+|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [cpp](./src/Sort_List.cpp)|Medium|220ms|
+|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [cpp](./src/Insertion_Sort_List.cpp)|Medium|100ms|
+|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [cpp](./src/LRU_Cache.cpp)|Hard|428ms|
+|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [cpp](./src/Binary_Tree_Postorder_Traversal.cpp)|Hard|8ms|
+|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [cpp](./src/Binary_Tree_Preorder_Traversal.cpp)|Medium|8ms|
