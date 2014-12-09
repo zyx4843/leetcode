@@ -30,3 +30,5 @@ My C++　solution about https://oj.leetcode.com question
 |[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)| [cpp](./src/Clone_Graph.cpp)|Medium|276ms|
 |[Palindrome Partitioning II ](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)| [cpp](./src/Palindrome_Partitioning_II.cpp)|Hard|106ms|
 |[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)| [cpp](./src/Palindrome_Partitioning.cpp)|Medium|60ms|
+|[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)| [cpp](./src/Surrounded_Regions.cpp)|Medium|88ms|
+|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| [cpp](./src/Sum_Root_to_Leaf_Numbers.cpp)|Medium|16ms|
