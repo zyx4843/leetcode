@@ -32,3 +32,8 @@ My C++　solution about https://oj.leetcode.com question
 |[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)| [cpp](./src/Palindrome_Partitioning.cpp)|Medium|60ms|
 |[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)| [cpp](./src/Surrounded_Regions.cpp)|Medium|88ms|
 |[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| [cpp](./src/Sum_Root_to_Leaf_Numbers.cpp)|Medium|16ms|
+|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)| [cpp](./src/Longest_Consecutive_Sequence.cpp)|Hard|60ms|
+|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)| [cpp](./src/Word_Ladder_II.cpp)|Hard|1340ms|
+|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)| [cpp](./src/Word_Ladder.cpp)|Medium|864ms|
+|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [cpp](./src/Valid_Palindrome.cpp)|Easy|56ms|
+|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)| [cpp](./src/Binary_Tree_Maximum_Path_Sum.cpp)|Hard|116ms|
