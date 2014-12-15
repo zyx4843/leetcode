@@ -13,7 +13,11 @@
 * Given {1,2,3,4}, reorder it to {1,4,2,3}.
 *               
 **********************************************************************************/
-#include "Struct_define.h"
+struct ListNode {
+	int val;
+	ListNode *next;
+	ListNode(int x) : val(x), next(NULL) {}
+};
 
 class Solution {
 public:
