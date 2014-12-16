@@ -40,4 +40,6 @@ My C++　solution about https://oj.leetcode.com question
 |[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [cpp](./src/Best_Time_to_Buy_and_Sell_Stock_III.cpp)|Hard|28ms|
 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [cpp](./src/Best_Time_to_Buy-and_Sell_Stock_II.cpp)|Medium|48ms|
 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [cpp](./src/Best_Time_to_Buy-and-Sell_Stock.cpp)|Medium|76ms|
-|[Triangle ](https://oj.leetcode.com/problems/triangle/)| [cpp](./src/Triangle.cpp)|Medium|44ms|
+|[Triangle](https://oj.leetcode.com/problems/triangle/)| [cpp](./src/Triangle.cpp)|Medium|44ms|
+|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| [cpp](./src/Pascal's_Triangle.cpp)|Easy|4ms|
+|[Pascal's Triangle II ](https://oj.leetcode.com/problems/pascals-triangle-ii/)| [cpp](./src/Pascal's_Triangle_II.cpp)|Easy|28ms|
