@@ -23,7 +23,6 @@
 #include <vector>
 
 using namespace std;
-#include "stdafx.h"
 
 class Solution {
 public:

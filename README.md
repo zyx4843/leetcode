@@ -41,5 +41,7 @@ My C++　solution about https://oj.leetcode.com question
 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [cpp](./src/Best_Time_to_Buy-and_Sell_Stock_II.cpp)|Medium|48ms|
 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [cpp](./src/Best_Time_to_Buy-and-Sell_Stock.cpp)|Medium|76ms|
 |[Triangle](https://oj.leetcode.com/problems/triangle/)| [cpp](./src/Triangle.cpp)|Medium|44ms|
+|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)| [cpp](./src/Pascal's_Triangle_II.cpp)|Easy|28ms|
 |[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| [cpp](./src/Pascal's_Triangle.cpp)|Easy|4ms|
-|[Pascal's Triangle II ](https://oj.leetcode.com/problems/pascals-triangle-ii/)| [cpp](./src/Pascal's_Triangle_II.cpp)|Easy|28ms|
+|[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [cpp](./src/Populating_Next_Right_Pointers_in_Each_Node_II.cpp)|Hard|144ms|
+|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [cpp](./src/Populating_Next_Right_Pointers_in_Each_Node.cpp)|Medium|100ms|
