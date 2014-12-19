@@ -49,3 +49,4 @@ My C++　solution about https://oj.leetcode.com question
 |[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [cpp](./src/Flatten_Binary_Tree_to_Linked_List.cpp)|Medium|24ms|
 |[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [cpp](./src/Path_Sum.cpp)|Easy|68ms|
 |[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [cpp](./src/Path_Sum_II.cpp)|Medium|88ms|
+|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [cpp](./src/Minimum_Depth_of_Binary_Tree.cpp)|Easy|56ms|
