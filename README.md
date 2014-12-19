@@ -45,3 +45,7 @@ My C++　solution about https://oj.leetcode.com question
 |[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| [cpp](./src/Pascal's_Triangle.cpp)|Easy|4ms|
 |[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [cpp](./src/Populating_Next_Right_Pointers_in_Each_Node_II.cpp)|Hard|144ms|
 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [cpp](./src/Populating_Next_Right_Pointers_in_Each_Node.cpp)|Medium|100ms|
+|[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)| [cpp](./src/Distinct_Subsequences.cpp)|Hard|40ms|
+|[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [cpp](./src/Flatten_Binary_Tree_to_Linked_List.cpp)|Medium|24ms|
+|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [cpp](./src/Path_Sum.cpp)|Easy|68ms|
+|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [cpp](./src/Path_Sum_II.cpp)|Medium|88ms|
