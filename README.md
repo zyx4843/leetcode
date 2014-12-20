@@ -50,3 +50,6 @@ My C++　solution about https://oj.leetcode.com question
 |[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [cpp](./src/Path_Sum.cpp)|Easy|68ms|
 |[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [cpp](./src/Path_Sum_II.cpp)|Medium|88ms|
 |[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [cpp](./src/Minimum_Depth_of_Binary_Tree.cpp)|Easy|56ms|
+|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [cpp](./src/Balanced_Binary_Tree.cpp)|Easy|56ms|
+|[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [cpp](./src/Convert_Sorted_List_to_Binary_Search_Tree.cpp)|Medium|112ms|
+|[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [cpp](./src/Convert_Sorted_Array_to_Binary_Search_Tree.cpp)|Medium|72ms|
