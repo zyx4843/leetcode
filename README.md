@@ -58,3 +58,10 @@ My C++　solution about https://oj.leetcode.com question
 |[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [cpp](./src/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|60ms|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [cpp](./src/Maximum_Depth_of_Binary_Tree.cpp)|Easy|44ms|
 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [cpp](./src/Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|Medium|12ms|
+|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [cpp](./src/Binary_Tree_Level_Order_Traversal.cpp)|Easy|40ms|
+|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [cpp](./src/Symmetric_Tree.cpp)|Easy|60ms|
+|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [cpp](./src/Same_Tree.cpp)|Easy|4ms|
+|[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| [cpp](./src/Recover_Binary_Search_Tree.cpp)|Hard|256ms|
+|[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [cpp](./src/Validate_Binary_Search_Tree.cpp)|Medium|92ms|
+|[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| [cpp](./src/Interleaving_String.cpp)|Hard|16ms|
+|[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [cpp](./src/Unique_Binary_Search_Trees.cpp)|Medium|0ms|
