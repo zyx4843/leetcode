@@ -69,3 +69,9 @@ My C++　solution about https://oj.leetcode.com question
 |[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [cpp](./src/Binary_Tree_Inorder_Traversal.cpp)|Medium|12ms|
 |[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| [cpp](./src/Restore_IP_Addresses.cpp)|Medium|32ms|
 |[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| [cpp](./src/Reverse_Linked_List_II.cpp)|Medium|8ms|
+|[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| [cpp](./src/Subsets_II.cpp)|Medium|20ms|
+|[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| [cpp](./src/Decode_Ways.cpp)|Medium|14ms|
+|[Gray Code](https://oj.leetcode.com/problems/gray-code/)| [cpp](./src/Gray_Code.cpp)|Medium|7ms|
+|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [cpp](./src/Merge_Sorted_Array.cpp)|Easy|12ms|
+|[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| [cpp](./src/Scramble_String.cpp)|Hard|145ms|
+|[Partition List](https://oj.leetcode.com/problems/partition-list/)| [cpp](./src/Partition_List.cpp)|Medium|15ms|
