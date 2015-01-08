@@ -75,3 +75,11 @@ My C++　solution about https://oj.leetcode.com question
 |[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [cpp](./src/Merge_Sorted_Array.cpp)|Easy|12ms|
 |[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| [cpp](./src/Scramble_String.cpp)|Hard|145ms|
 |[Partition List](https://oj.leetcode.com/problems/partition-list/)| [cpp](./src/Partition_List.cpp)|Medium|15ms|
+|[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| [cpp](./src/Maximal_Rectangle.cpp)|Hard|28ms|
+|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| [cpp](./src/Largest_Rectangle_in_Histogram.cpp)|Hard|33ms|
+|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [cpp](./src/Remove_Duplicates_from_Sorted_List_II.cpp)|Medium|18ms|
+|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [cpp](./src/Remove_Duplicates_from_Sorted_List.cpp)|Easy|21ms|
+|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [cpp](./src/Search_in_Rotated_Sorted_Array_II.cpp)|Medium|22ms|
+|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array_II.cpp)|Medium|42ms|
+|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [cpp](./src/Search_in_Rotated_Sorted_Array.cpp)|Hard|12ms|
+|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array.cpp)|Easy|37ms|
