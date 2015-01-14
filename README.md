@@ -81,5 +81,8 @@ My C++　solution about https://oj.leetcode.com question
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [cpp](./src/Remove_Duplicates_from_Sorted_List.cpp)|Easy|21ms|
 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [cpp](./src/Search_in_Rotated_Sorted_Array_II.cpp)|Medium|22ms|
 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array_II.cpp)|Medium|42ms|
+|[Word Search](https://oj.leetcode.com/problems/word-search/)| [cpp](./src/Word_Search.cpp)|Medium|73ms|
+|[Subsets](https://oj.leetcode.com/problems/subsets/)| [cpp](./src/Subsets.cpp)|Medium|10ms|
+|[Combinations](https://oj.leetcode.com/problems/combinations/)| [cpp](./src/Combinations.cpp)|Medium|17ms|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [cpp](./src/Search_in_Rotated_Sorted_Array.cpp)|Hard|12ms|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array.cpp)|Easy|37ms|
