@@ -85,5 +85,11 @@ My C++　solution about https://oj.leetcode.com question
 |[Subsets](https://oj.leetcode.com/problems/subsets/)| [cpp](./src/Subsets.cpp)|Medium|10ms|
 |[Combinations](https://oj.leetcode.com/problems/combinations/)| [cpp](./src/Combinations.cpp)|Medium|17ms|
 |[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| [cpp](./src/Minimum_Window_Substring.cpp)|Hard|25ms|
+|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| [cpp](./src/Sort_Colors.cpp)|Medium|4ms|
+|[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [cpp](./src/Search_a_2D_Matrix.cpp)|Medium|24ms|
+|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| [cpp](./src/Set_Matrix_Zeroes.cpp)|Medium|83ms|
+|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [cpp](./src/Edit_Distance.cpp)|Hard|51ms|
+|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [cpp](./src/Simplify_Path.cpp)|Medium|12ms|
+|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [cpp](./src/Climbing_Stairs.cpp)|Easy|2ms|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [cpp](./src/Search_in_Rotated_Sorted_Array.cpp)|Hard|12ms|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array.cpp)|Easy|37ms|
