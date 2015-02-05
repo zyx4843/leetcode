@@ -91,5 +91,15 @@ My C++　solution about https://oj.leetcode.com question
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [cpp](./src/Edit_Distance.cpp)|Hard|51ms|
 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [cpp](./src/Simplify_Path.cpp)|Medium|12ms|
 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [cpp](./src/Climbing_Stairs.cpp)|Easy|2ms|
+|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [cpp](./src/Sqrt(x).cpp)|Medium|18ms|
+|[Text Justification](https://oj.leetcode.com/problems/text-justification/)| [cpp](./src/Text_Justification.cpp)|Hard|3ms|
+|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [cpp](./src/Plus_One.cpp)|Easy|5ms|
+|[Valid Number](https://oj.leetcode.com/problems/valid-number/)| [cpp](./src/Valid_Number.cpp)|Hard|18ms|
+|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [cpp](./src/Add_Binary.cpp)|Easy|8ms|
+|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [cpp](./src/Merge_Two_Sorted_Lists.cpp)|Easy|19ms|
+|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [cpp](./src/Minimum_Path_Sum.cpp)|Medium|26ms|
+|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [cpp](./src/Unique_Paths_II.cpp)|Medium|13ms|
+|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [cpp](./src/Unique_Paths.cpp)|Medium|3ms|
+|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [cpp](./src/Rotate_List.cpp)|Medium|18ms|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [cpp](./src/Search_in_Rotated_Sorted_Array.cpp)|Hard|12ms|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array.cpp)|Easy|37ms|
