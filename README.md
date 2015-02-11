@@ -101,5 +101,9 @@ My C++　solution about https://oj.leetcode.com question
 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [cpp](./src/Unique_Paths_II.cpp)|Medium|13ms|
 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [cpp](./src/Unique_Paths.cpp)|Medium|3ms|
 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [cpp](./src/Rotate_List.cpp)|Medium|18ms|
+|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [cpp](./src/Permutation_Sequence.cpp)|Medium|4ms|
+|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [cpp](./src/Spiral_Matrix_II.cpp)|Medium|6ms|
+|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [cpp](./src/Length_of_Last_Word.cpp)|Easy|4ms|
+|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [cpp](./src/Insert_Interval.cpp)|Hard|17ms|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [cpp](./src/Search_in_Rotated_Sorted_Array.cpp)|Hard|12ms|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array.cpp)|Easy|37ms|
