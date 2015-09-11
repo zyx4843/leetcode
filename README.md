@@ -109,5 +109,6 @@ My C++　solution about https://oj.leetcode.com question
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [cpp](./src/Jump_Game.cpp)|Medium|18ms|
 |[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [cpp](./src/Spiral_Matrix.cpp)|Medium|3ms|
 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [cpp](./src/Maximum_Subarray.cpp)|Medium|12ms|
+|[N-Queens](https://leetcode.com/problems/n-queens/)| [cpp](./src/N-Queens.cpp)|Hard|8ms|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [cpp](./src/Search_in_Rotated_Sorted_Array.cpp)|Hard|12ms|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./src/Remove_Duplicates_from_Sorted_Array.cpp)|Easy|37ms|
